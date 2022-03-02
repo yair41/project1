@@ -1,0 +1,4 @@
+void secondfunc()
+{
+	printf("second");
+}
